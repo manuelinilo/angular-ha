@@ -8,6 +8,12 @@ b. Output: Valores A y B tal que A+B = N
 c. Restricciones: 1 ≤N≤ 10^100. Al menos un dígito de N es 4
 d. Ejemplo: Entrada: N = 9463 Salida: A = 6352, B=3111
 
+Ejecutar:
+1. npm install
+2. ng serve
 
+Requisitos:
+1. npm
+2. angular-cli@11
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-td1tqy)
