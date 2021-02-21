@@ -5,7 +5,7 @@ import { Component } from "@angular/core";
   styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  name = "HealhAtom";
+  name = "Mundo";
   numero: number;
   nFactorial: number;
   cantidadCeros: number;
